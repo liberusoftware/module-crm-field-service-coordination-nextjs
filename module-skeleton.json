@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-field-service-coordination-nextjs",
+  "capabilityKey": "liberusoftware/module-crm-field-service-coordination",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-crm-field-service-coordination-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/crm/nextjs/field-service-coordination.md",
+  "presentationPlan": "projects/crm/nextjs/field-service-coordination.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
